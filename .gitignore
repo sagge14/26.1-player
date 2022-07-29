@@ -1,0 +1,4 @@
+*.log
+.idea/
+!1.log
+cmake-build-debug/
