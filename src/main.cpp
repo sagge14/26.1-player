@@ -80,5 +80,6 @@ int main() {
         }
     }
     cout << "---Bye, bye!---" << endl;
+    cout << "---Githab!---" << endl;
     return 0;
 }
